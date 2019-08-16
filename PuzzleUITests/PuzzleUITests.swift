@@ -1,10 +1,4 @@
-//
-//  PuzzleUITests.swift
-//  PuzzleUITests
-//
-//  Created by User on 03/06/19.
-//  Copyright © 2019 Heptagon. All rights reserved.
-//
+
 
 import XCTest
 
