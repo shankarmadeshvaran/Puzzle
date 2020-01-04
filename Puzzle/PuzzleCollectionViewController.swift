@@ -4,8 +4,12 @@ import UIKit
 
 class PuzzleCollectionViewController: UICollectionViewController {
     
-    var puzzle = [ Puzzle(title: "Pikachu", solvedImages: ["pikachuLeftFace","pikachuRightFace","pikachuLeftBody","pikachuRightBody"]), Puzzle(title: "Soldier", solvedImages: ["soldier1","soldier2","soldier3","soldier4","soldier5","soldier6","soldier7","soldier8","soldier9","soldier10","soldier11","soldier12","soldier13","soldier14","soldier15","soldier16"])]
-    
+var puzzle = [ Puzzle(title: "Pikachu", solvedImages: ["pikachuLeftFace","pikachuRightFace","pikachuLeftBody","pikachuRightBody"]), 
+              Puzzle(title: "Charuzard", solvedImages: ["charuzardLeftWing","charuzardNeck","charuzardRightWing","charuzardFace","charuzardBody",
+                                                        "charuzardRightHand","charuzardTailEnd","charuzardTail","charuzardRightLeg"]) ,
+              Puzzle(title: "Soldier", solvedImages: ["soldier1","soldier2","soldier3","soldier4","soldier5","soldier6","soldier7",
+                                                      "soldier8","soldier9","soldier10","soldier11","soldier12","soldier13","soldier14",
+                                                      "soldier15","soldier16"])]    
     var index: Int = 0
     var gameTimer: Timer?
     var hintImage = UIImageView()
