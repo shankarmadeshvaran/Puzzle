@@ -12,4 +12,4 @@ I have used UICollectionView, Drag and Drop Api and more in this puzzle game.
 I have put an [detailed article](https://medium.com/a-developer-in-making/puzzle-game-using-ui-drag-drop-apis-in-swift-4bd9d29f6c20) about this puzzle game implementation in Medium.
 
 ## More Updates
-Follow me on [Twitter](https://twitter.com/Shankar__am) to get the latest update about features, code and more.Consider star the repo if you like it.Thanks.
+Follow me on [Twitter](https://twitter.com/devinmaking) to get the latest update about features, code and more.Consider star the repo if you like it.Thanks.
